@@ -1,1 +1,8 @@
-json { "name": "zalo-vellum-bot", "private": true, "type": "module", "dependencies": { "vellum-ai": "^1.0.0" } }
+{
+  "name": "zalo-vellum-bot",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "vellum-ai": "^1.0.0"
+  }
+}
